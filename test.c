@@ -11,7 +11,7 @@ int main() {
     if (age > 18 )
     printf("You are Elgible to Vote");
     else 
-    printf("You are not eligible to vote");
+    printf("You are not eligible to vote"); 
     return 0;
 }   
 

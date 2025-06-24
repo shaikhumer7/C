@@ -103,7 +103,7 @@
 typedef struct 
 {
     double alive_ampltitude;
-    double dead_amplitude;
+    double dead_amplitude;  
     int collapsed;
     int final_state;
 } Quantum_Cat;
