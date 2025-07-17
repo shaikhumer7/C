@@ -6,3 +6,9 @@ int main() {
     printf("this is again an test for vs code version control");
     return 0;
 }
+
+struct v2
+{
+    int age;
+    int travell_time;
+};
